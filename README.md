@@ -1,3 +1,3 @@
 ## Mission impulse
  
-### A aplicação foi desenvolvida em React, React Native e NodeJS.
+### A aplicação frontend foi desenvolvida em React e NodeJS.
